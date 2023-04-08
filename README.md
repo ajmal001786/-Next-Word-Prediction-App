@@ -6,4 +6,5 @@ The application uses natural language processing, namely, n-grams, Markov model,
 
 This N-gram Word Predictor was developed as a capstone project for data science portfolio project
 
-link to Shiiny App: https://ajmal007.shinyapps.io/word-prediction/
+link to Shiny App: https://ajmal007.shinyapps.io/word-prediction/
+Presentation: https://rpubs.com/ajmal007/wordpredictionpresentation

@@ -1,4 +1,4 @@
-# -Next-Word-Prediction-App
+# Next-Word-Prediction-App
 
 This application predicts the next possible word in a phrase or sentence. To use it, simply type word(s) on the text field on the screen and up to 4 possible next words will display in buttons below the field. Click on your intended match to add it to the field.
 
